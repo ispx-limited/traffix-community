@@ -703,6 +703,37 @@
    "updated_at": "2026-11-11T16:59:53.864802+00:00"
   },
   {
+   "id": 43,
+   "title": {
+    "id": 42,
+    "name": "Sonic Pico Park",
+    "slug": "sonic-pico-park",
+    "steam_app_id": null,
+    "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133646/50bd881c2e9106107feba45702fc746b1e16a36de0b2b9ae84f00446ff9454fa"
+   },
+   "kind": "game_release",
+   "name": "Sonic Pico Park",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "switch"
+   ],
+   "starts_at": "2026-11-12T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 0.44,
+   "popularity_tier": "low",
+   "impact_score": 5,
+   "summary": "Multiplatform release 12 Nov 2026; likely small download.",
+   "issue_number": 44,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/44",
+   "published_at": "2026-11-11T23:21:34.044990+00:00",
+   "updated_at": "2026-11-11T23:21:34.044990+00:00"
+  },
+  {
    "id": 26,
    "title": {
     "id": 26,
