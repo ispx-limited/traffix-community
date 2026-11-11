@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.11.1",
+ "traffix_version": "0.14.0",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -941,6 +941,37 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/53",
    "published_at": "2026-11-11T16:59:36.125329+00:00",
    "updated_at": "2026-11-11T16:59:36.125329+00:00"
+  },
+  {
+   "id": 40,
+   "title": {
+    "id": 39,
+    "name": "DRAGON QUEST MONSTERS: The Withered World",
+    "slug": "dragon-quest-monsters-the-withered-world",
+    "steam_app_id": 3681610,
+    "image_url": "https://store-images.s-microsoft.com/image/apps.5344.13825677853630511.34c22f08-dbbb-42c7-9f0e-bf309f685583.76f90831-f4b9-4b91-b8b7-e9cd9b45243c?q=90&w=480&h=270"
+   },
+   "kind": "game_release",
+   "name": "DRAGON QUEST MONSTERS: The Withered World",
+   "version": null,
+   "platforms": [
+    "playstation",
+    "xbox",
+    "switch",
+    "pc"
+   ],
+   "starts_at": "2026-12-03T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 40.0,
+   "popularity_tier": "medium",
+   "impact_score": 30,
+   "summary": "Square Enix release on PS5, Xbox, Switch, Switch 2 and PC; a Digital Deluxe early access from Dec 1 was reported by press (not read on a primary page). Download size and preload window not found.",
+   "issue_number": 13,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/13",
+   "published_at": "2026-11-11T23:05:35.261135+00:00",
+   "updated_at": "2026-11-11T23:05:35.261135+00:00"
   },
   {
    "id": 38,
