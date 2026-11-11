@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.8.1",
+ "traffix_version": "0.8.2",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -905,36 +905,6 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/64",
    "published_at": "2026-11-11T16:59:02.211634+00:00",
    "updated_at": "2026-11-11T16:59:02.211634+00:00"
-  },
-  {
-   "id": 35,
-   "title": {
-    "id": 34,
-    "name": "Orbital Siege",
-    "slug": "orbital-siege",
-    "steam_app_id": 5151515,
-    "image_url": null
-   },
-   "kind": "game_release",
-   "name": "Orbital Siege",
-   "version": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "starts_at": "2026-11-27T00:00:00+00:00",
-   "date_precision": "day",
-   "preload_at": "2026-11-25T00:00:00+00:00",
-   "preload_precision": "day",
-   "size_gb": 150.0,
-   "popularity_tier": "massive",
-   "impact_score": 88,
-   "summary": "Launch with a two-day preload.",
-   "issue_number": 59,
-   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/59",
-   "published_at": "2026-11-11T16:59:30.550368+00:00",
-   "updated_at": "2026-11-11T16:59:30.550368+00:00"
   },
   {
    "id": 31,
