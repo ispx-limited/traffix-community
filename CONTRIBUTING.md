@@ -2,7 +2,7 @@
 
 ## What is wanted
 
-- An upcoming game release, game update, preload or platform update with
+- An upcoming game release, game update or platform update with
   a source: the publisher's page, the store page, SteamDB, platform news.
 - A correction to a published event, with a source for the correct value.
 
@@ -17,7 +17,9 @@
 ## Filling the templates
 
 - **Title** is the game or platform name as the publisher writes it.
-- **Kind** is one of Game release, Game update, Preload, Platform update.
+- **Kind** is one of Game release, Game update, Platform update. A preload
+  is not a kind: give the release's **Preload date** when the store announces
+  one, because that is the day the download lands.
 - **Name** is the update or patch name when there is one; leave it empty
   for a release.
 - **Platforms** use this vocabulary: pc, playstation, xbox, switch,
