@@ -647,6 +647,36 @@
    "updated_at": "2024-11-19T00:00:00+00:00"
   },
   {
+   "id": 26,
+   "title": {
+    "id": 26,
+    "name": "Call of Duty: Black Ops 7",
+    "slug": "call-of-duty-black-ops-7",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "game_update",
+   "name": "Season 2",
+   "version": "2.0",
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2026-11-13T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 45.0,
+   "popularity_tier": "high",
+   "impact_score": 46,
+   "summary": "Season launch patch.",
+   "issue_number": 68,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/68",
+   "published_at": "2026-11-11T16:58:40.040276+00:00",
+   "updated_at": "2026-11-11T16:58:40.040276+00:00"
+  },
+  {
    "id": 24,
    "title": {
     "id": 24,
