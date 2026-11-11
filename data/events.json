@@ -1045,14 +1045,14 @@
    "date_precision": "day",
    "preload_at": null,
    "preload_precision": "day",
-   "size_gb": 6.0,
+   "size_gb": null,
    "popularity_tier": "high",
-   "impact_score": 37,
+   "impact_score": 35,
    "summary": "Free update with new tracks.",
    "issue_number": 61,
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/61",
    "published_at": "2026-11-11T16:59:18.821345+00:00",
-   "updated_at": "2026-11-11T16:59:18.821345+00:00"
+   "updated_at": "2026-11-11T21:21:43.896009+00:00"
   }
  ]
 }
