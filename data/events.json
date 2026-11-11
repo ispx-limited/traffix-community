@@ -675,6 +675,34 @@
    "updated_at": "2026-11-11T16:59:42.240583+00:00"
   },
   {
+   "id": 39,
+   "title": {
+    "id": 38,
+    "name": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+    "slug": "pikmin-4-nintendo-switch-2-edition-dandori-academy",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "game_release",
+   "name": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "version": null,
+   "platforms": [
+    "switch"
+   ],
+   "starts_at": "2026-11-12T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 12.8,
+   "popularity_tier": "medium",
+   "impact_score": 23,
+   "summary": "Switch 2 edition upgrade/release 12 Nov 2026; size not found.",
+   "issue_number": 45,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/45",
+   "published_at": "2026-11-11T16:59:53.864802+00:00",
+   "updated_at": "2026-11-11T16:59:53.864802+00:00"
+  },
+  {
    "id": 26,
    "title": {
     "id": 26,
