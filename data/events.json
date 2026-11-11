@@ -958,14 +958,14 @@
    "date_precision": "day",
    "preload_at": null,
    "preload_precision": "day",
-   "size_gb": 2.0,
+   "size_gb": null,
    "popularity_tier": "medium",
    "impact_score": 20,
    "summary": "Content patch.",
    "issue_number": 62,
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/62",
    "published_at": "2026-11-11T16:59:13.486879+00:00",
-   "updated_at": "2026-11-11T16:59:13.486879+00:00"
+   "updated_at": "2026-11-11T21:21:38.307406+00:00"
   },
   {
    "id": 36,
