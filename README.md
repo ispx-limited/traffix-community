@@ -1,7 +1,7 @@
 # traffix-community
 
 traffix tells ISPs which large downloads are coming: game releases, game
-updates, preloads and platform updates such as console firmware and
+updates, preload windows and platform updates such as console firmware and
 operating system releases, each with its size, date, platforms and an
 impact score. The site is https://traffix.ispx.co.
 
