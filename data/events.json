@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.8.2",
+ "traffix_version": "0.11.0",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -37,7 +37,7 @@
     "name": "Call of Duty Warzone",
     "slug": "call-of-duty-warzone",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/warzone2/blackops7/evergreen/WZ_LP-Update_Meta.webp"
    },
    "kind": "game_update",
    "name": "Update Season 4 Reloaded",
@@ -485,7 +485,7 @@
     "name": "Diablo IV",
     "slug": "diablo-iv",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/vf/VF2YF3V2URW81760550738062.png"
    },
    "kind": "game_update",
    "name": "Update Vessel of Hatred DLC",
@@ -681,7 +681,7 @@
     "name": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
     "slug": "pikmin-4-nintendo-switch-2-edition-dandori-academy",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000005308/43af89ed5bd76ac5ec6b367b4b53092f8bf94a1d1312fdfc1d4664329fd5077b"
    },
    "kind": "game_release",
    "name": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
@@ -709,7 +709,7 @@
     "name": "Call of Duty: Black Ops 7",
     "slug": "call-of-duty-black-ops-7",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/bo7/pdp/Chimera_Reveal_Store-PDP_Carousel-1_LG.webp"
    },
    "kind": "game_update",
    "name": "Season 2",
@@ -723,14 +723,14 @@
    "date_precision": "day",
    "preload_at": null,
    "preload_precision": "day",
-   "size_gb": 45.0,
+   "size_gb": null,
    "popularity_tier": "high",
-   "impact_score": 46,
+   "impact_score": 35,
    "summary": "Season launch patch.",
    "issue_number": 68,
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/68",
    "published_at": "2026-11-11T16:58:40.040276+00:00",
-   "updated_at": "2026-11-11T16:58:40.040276+00:00"
+   "updated_at": "2026-11-11T21:20:59.760688+00:00"
   },
   {
    "id": 34,
@@ -739,7 +739,7 @@
     "name": "Helldivers 2",
     "slug": "helldivers-2",
     "steam_app_id": 553850,
-    "image_url": null
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg"
    },
    "kind": "game_update",
    "name": "Warbond drop",
@@ -826,7 +826,7 @@
     "name": "Grand Theft Auto VI",
     "slug": "grand-theft-auto-vi",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?yvw8ZozOI7a7Kz1war9qe"
    },
    "kind": "game_release",
    "name": "Grand Theft Auto VI",
@@ -855,7 +855,7 @@
     "name": "Elden Ring Nightreign",
     "slug": "elden-ring-nightreign",
     "steam_app_id": 2622380,
-    "image_url": null
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg"
    },
    "kind": "game_release",
    "name": "Elden Ring Nightreign",
@@ -945,7 +945,7 @@
     "name": "Hollow Knight: Silksong",
     "slug": "hollow-knight-silksong",
     "steam_app_id": 1030300,
-    "image_url": null
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg"
    },
    "kind": "game_update",
    "name": "Patch 1.1",
@@ -1005,7 +1005,7 @@
     "name": "Monster Hunter Wilds (Switch 2)",
     "slug": "monster-hunter-wilds-switch-2",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a"
    },
    "kind": "game_release",
    "name": "Monster Hunter Wilds \u2013 Nintendo Switch 2",
@@ -1033,7 +1033,7 @@
     "name": "Mario Kart World",
     "slug": "mario-kart-world",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000095431/0485f410193ca12f92a2f615ea608bb437540f321bd05e464593c33fefa09bf2"
    },
    "kind": "game_update",
    "name": "Version 2.0",
