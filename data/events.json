@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.7.0",
+ "traffix_version": "0.8.1",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -674,6 +674,35 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/6",
    "published_at": "2026-11-11T16:10:42.208203+00:00",
    "updated_at": "2026-11-11T16:10:42.208203+00:00"
+  },
+  {
+   "id": 25,
+   "title": {
+    "id": 25,
+    "name": "Starfall Online",
+    "slug": "starfall-online",
+    "steam_app_id": 4242424,
+    "image_url": null
+   },
+   "kind": "game_release",
+   "name": "Starfall Online",
+   "version": null,
+   "platforms": [
+    "pc",
+    "xbox"
+   ],
+   "starts_at": "2026-12-05T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 120.0,
+   "popularity_tier": "massive",
+   "impact_score": 80,
+   "summary": "Launch day.",
+   "issue_number": 70,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/70",
+   "published_at": "2026-11-11T16:58:33.896391+00:00",
+   "updated_at": "2026-11-11T16:58:33.896391+00:00"
   }
  ]
 }
