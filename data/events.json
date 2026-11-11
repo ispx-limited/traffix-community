@@ -897,14 +897,14 @@
    "date_precision": "day",
    "preload_at": null,
    "preload_precision": "day",
-   "size_gb": 8.0,
+   "size_gb": null,
    "popularity_tier": "massive",
-   "impact_score": 52,
+   "impact_score": 50,
    "summary": "Point release to all supported iPhones.",
    "issue_number": 64,
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/64",
    "published_at": "2026-11-11T16:59:02.211634+00:00",
-   "updated_at": "2026-11-11T16:59:02.211634+00:00"
+   "updated_at": "2026-11-11T21:21:27.151321+00:00"
   },
   {
    "id": 31,
