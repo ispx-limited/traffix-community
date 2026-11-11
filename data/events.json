@@ -762,34 +762,6 @@
    "updated_at": "2026-11-11T21:21:05.521764+00:00"
   },
   {
-   "id": 27,
-   "title": {
-    "id": 27,
-    "name": "Windows 11",
-    "slug": "windows-11",
-    "steam_app_id": null,
-    "image_url": null
-   },
-   "kind": "platform_update",
-   "name": "25H2 feature update",
-   "version": "25H2",
-   "platforms": [
-    "windows"
-   ],
-   "starts_at": "2026-11-15T00:00:00+00:00",
-   "date_precision": "day",
-   "preload_at": null,
-   "preload_precision": "day",
-   "size_gb": null,
-   "popularity_tier": "massive",
-   "impact_score": 50,
-   "summary": "Cumulative feature update to every Windows 11 device.",
-   "issue_number": 67,
-   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/67",
-   "published_at": "2026-11-11T16:58:45.749178+00:00",
-   "updated_at": "2026-11-11T21:21:11.117199+00:00"
-  },
-  {
    "id": 28,
    "title": {
     "id": 28,
