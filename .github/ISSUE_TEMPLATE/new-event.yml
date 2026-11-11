@@ -1,0 +1,78 @@
+name: New event
+description: An upcoming game release, game update, preload or platform update
+title: "Event: "
+labels: ["event"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: The game or platform name as the publisher writes it
+      placeholder: Harbour Quest
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - Game release
+        - Game update
+        - Preload
+        - Platform update
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The update or patch name, if it has one
+      placeholder: Season 3
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: 1.4.0
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: Platforms
+      options:
+        - label: PC
+        - label: PlayStation
+        - label: Xbox
+        - label: Switch
+        - label: Windows
+        - label: macOS
+        - label: iOS
+        - label: Android
+        - label: Linux
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: YYYY-MM-DD, in UTC
+      placeholder: "2026-12-01"
+    validations:
+      required: true
+  - type: input
+    id: size
+    attributes:
+      label: Size
+      description: Gigabytes, as a number
+      placeholder: "85"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source URLs
+      description: One per line. The first states the date.
+      placeholder: https://store.steampowered.com/app/123456/
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Per-platform sizes, an hour for the date, anything else

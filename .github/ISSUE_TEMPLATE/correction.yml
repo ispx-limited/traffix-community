@@ -1,0 +1,38 @@
+name: Correction
+description: A published event has a wrong date, size, version or platform
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: event
+    attributes:
+      label: Event
+      description: The event's URL or id on the site
+      placeholder: https://traffix.ispx.co/events/123
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      placeholder: The date moved to 12 December.
+    validations:
+      required: true
+  - type: input
+    id: value
+    attributes:
+      label: Correct value
+      placeholder: "2026-12-12"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source URLs
+      description: One per line
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
