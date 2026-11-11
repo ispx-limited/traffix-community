@@ -705,6 +705,36 @@
    "updated_at": "2026-11-11T16:58:45.749178+00:00"
   },
   {
+   "id": 28,
+   "title": {
+    "id": 28,
+    "name": "Monster Hunter Wilds",
+    "slug": "monster-hunter-wilds",
+    "steam_app_id": 2246340,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg"
+   },
+   "kind": "game_update",
+   "name": "Title update 3",
+   "version": "1.030",
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2026-11-17T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 28.0,
+   "popularity_tier": "high",
+   "impact_score": 42,
+   "summary": "Free title update with new monsters.",
+   "issue_number": 66,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/66",
+   "published_at": "2026-11-11T16:58:51.237977+00:00",
+   "updated_at": "2026-11-11T16:58:51.237977+00:00"
+  },
+  {
    "id": 24,
    "title": {
     "id": 24,
