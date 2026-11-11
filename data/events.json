@@ -752,14 +752,14 @@
    "date_precision": "day",
    "preload_at": null,
    "preload_precision": "day",
-   "size_gb": 12.0,
+   "size_gb": null,
    "popularity_tier": "high",
-   "impact_score": 38,
+   "impact_score": 35,
    "summary": "Monthly warbond patch.",
    "issue_number": 60,
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/60",
    "published_at": "2026-11-11T16:59:25.031959+00:00",
-   "updated_at": "2026-11-11T16:59:25.031959+00:00"
+   "updated_at": "2026-11-11T21:21:05.521764+00:00"
   },
   {
    "id": 27,
