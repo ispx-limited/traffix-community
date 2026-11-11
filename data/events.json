@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.11.0",
+ "traffix_version": "0.11.1",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -9,7 +9,7 @@
     "name": "Fortnite",
     "slug": "fortnite",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://cdn2.unrealengine.com/01-fnferal-35-10-egs-storeart-3840x2160-3840x2160-c56ceb497213.png"
    },
    "kind": "game_update",
    "name": "Update v30.20",
@@ -879,41 +879,13 @@
    "updated_at": "2026-11-11T21:21:21.588352+00:00"
   },
   {
-   "id": 30,
-   "title": {
-    "id": 30,
-    "name": "iOS 27",
-    "slug": "ios-27",
-    "steam_app_id": null,
-    "image_url": null
-   },
-   "kind": "platform_update",
-   "name": "iOS 27.1",
-   "version": "27.1",
-   "platforms": [
-    "ios"
-   ],
-   "starts_at": "2026-11-24T00:00:00+00:00",
-   "date_precision": "day",
-   "preload_at": null,
-   "preload_precision": "day",
-   "size_gb": null,
-   "popularity_tier": "massive",
-   "impact_score": 50,
-   "summary": "Point release to all supported iPhones.",
-   "issue_number": 64,
-   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/64",
-   "published_at": "2026-11-11T16:59:02.211634+00:00",
-   "updated_at": "2026-11-11T21:21:27.151321+00:00"
-  },
-  {
    "id": 31,
    "title": {
     "id": 22,
     "name": "Fortnite",
     "slug": "fortnite",
     "steam_app_id": null,
-    "image_url": null
+    "image_url": "https://cdn2.unrealengine.com/01-fnferal-35-10-egs-storeart-3840x2160-3840x2160-c56ceb497213.png"
    },
    "kind": "game_update",
    "name": "Chapter 7 season 2",
