@@ -763,38 +763,6 @@
    "updated_at": "2026-11-11T16:10:42.208203+00:00"
   },
   {
-   "id": 31,
-   "title": {
-    "id": 22,
-    "name": "Fortnite",
-    "slug": "fortnite",
-    "steam_app_id": null,
-    "image_url": "https://cdn2.unrealengine.com/01-fnferal-35-10-egs-storeart-3840x2160-3840x2160-c56ceb497213.png"
-   },
-   "kind": "game_update",
-   "name": "Chapter 7 season 2",
-   "version": "v40.00",
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox",
-    "switch",
-    "android"
-   ],
-   "starts_at": "2026-11-28T00:00:00+00:00",
-   "date_precision": "day",
-   "preload_at": null,
-   "preload_precision": "day",
-   "size_gb": null,
-   "popularity_tier": "massive",
-   "impact_score": 50,
-   "summary": "New chapter map.",
-   "issue_number": 63,
-   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/63",
-   "published_at": "2026-11-11T16:59:07.953028+00:00",
-   "updated_at": "2026-11-11T21:21:32.681400+00:00"
-  },
-  {
    "id": 32,
    "title": {
     "id": 31,
