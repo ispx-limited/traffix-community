@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.15.1",
+ "traffix_version": "0.24.0",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -732,36 +732,6 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/44",
    "published_at": "2026-11-11T23:21:34.044990+00:00",
    "updated_at": "2026-11-11T23:21:34.044990+00:00"
-  },
-  {
-   "id": 26,
-   "title": {
-    "id": 26,
-    "name": "Call of Duty: Black Ops 7",
-    "slug": "call-of-duty-black-ops-7",
-    "steam_app_id": null,
-    "image_url": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/bo7/pdp/Chimera_Reveal_Store-PDP_Carousel-1_LG.webp"
-   },
-   "kind": "game_update",
-   "name": "Season 2",
-   "version": "2.0",
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "starts_at": "2026-11-13T00:00:00+00:00",
-   "date_precision": "day",
-   "preload_at": null,
-   "preload_precision": "day",
-   "size_gb": null,
-   "popularity_tier": "high",
-   "impact_score": 35,
-   "summary": "Season launch patch.",
-   "issue_number": 68,
-   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/68",
-   "published_at": "2026-11-11T16:58:40.040276+00:00",
-   "updated_at": "2026-11-11T21:20:59.760688+00:00"
   },
   {
    "id": 34,
