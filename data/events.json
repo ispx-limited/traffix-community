@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.24.0",
+ "traffix_version": "0.25.0",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -851,6 +851,34 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/14",
    "published_at": "2026-11-11T23:21:16.167747+00:00",
    "updated_at": "2026-11-11T23:21:16.167747+00:00"
+  },
+  {
+   "id": 44,
+   "title": {
+    "id": 43,
+    "name": "Warhammer 40,000: Dawn of War IV",
+    "slug": "warhammer-40-000-dawn-of-war-iv",
+    "steam_app_id": 2272360,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/f50a309da98ef75cbdae400a7d492e36314ce415/header.jpg?t=1794231378"
+   },
+   "kind": "game_release",
+   "name": "Warhammer 40,000: Dawn of War IV",
+   "version": null,
+   "platforms": [
+    "pc"
+   ],
+   "starts_at": "2026-12-03T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 125.0,
+   "popularity_tier": "high",
+   "impact_score": 66,
+   "summary": "RTS from KING Art Games and Deep Silver, delayed from Sept 17 to Dec 3, 2026. Commander Edition buyers get advance access from Nov 30. Steam lists no storage figure and no preload yet; system requirements are still 'Coming soon'.",
+   "issue_number": 2,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/2",
+   "published_at": "2026-11-13T16:44:31.581348+00:00",
+   "updated_at": "2026-11-13T16:44:31.581348+00:00"
   },
   {
    "id": 38,
