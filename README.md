@@ -17,10 +17,13 @@ Review works like this:
 
 1. The traffix worker checks the claims against the sources on its next
    nightly run and comments what it found.
-2. The owner decides with a comment: `/approve` publishes the event,
-   `/deny <reason>` closes it, and `/edit field=value ...` corrects fields
-   before an `/approve`.
-3. The issue is closed with a link to the published event.
+2. A proposal whose date comes from the publisher or store, whose size
+   has a good source, whose quotes are found on the pages they cite, and
+   which passes every check, is published on its evidence.
+3. Anything less waits for an owner, who decides with a comment:
+   `/approve` publishes the event, `/deny <reason>` closes it, and
+   `/edit field=value ...` corrects fields before an `/approve`.
+4. The issue is closed with a link to the published event.
 
 Reactions and comments from anyone else are welcome as signals and are read
 during review. They do not approve anything.
@@ -36,14 +39,16 @@ pointer to the issue templates. The file's shape is described in
 
 ## The API and the feeds
 
-- JSON API: needs a key. The site's `/api` page says how to ask for one.
+- JSON API: needs a key. The site's `/api` page says how to ask for one,
+  and https://traffix.ispx.co/docs is the reference. The same key also
+  works on a sandbox with fictional data, for building an integration.
 - Calendar: https://traffix.ispx.co/feeds/events.ics
 - RSS: https://traffix.ispx.co/feeds/events.rss
 
 ## Limitations
 
-- One person reviews, so a proposal waits until the next review, usually
-  the following evening.
+- A proposal that does not meet the evidence bar waits for an owner to
+  review it, usually the following evening.
 - The worker runs once a night. An event announced in the morning appears
   the next day at the earliest.
 - Publishers move dates. Published events are re-checked as their date
