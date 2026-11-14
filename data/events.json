@@ -1036,6 +1036,38 @@
    "updated_at": "2026-11-11T23:21:25.099502+00:00"
   },
   {
+   "id": 48,
+   "title": {
+    "id": 47,
+    "name": "Professor Layton and the New World of Steam",
+    "slug": "professor-layton-and-the-new-world-of-steam",
+    "steam_app_id": null,
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3384600/cd0487c6f04e410153dfece870889f99ea7f3e8e/capsule_616x353.jpg?t=1794478966"
+   },
+   "kind": "game_release",
+   "name": "Professor Layton and the New World of Steam",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "switch"
+   ],
+   "starts_at": "2026-12-09T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 3.2,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 21,
+   "summary": "Release 9 Dec 2026 (10 Dec in Japan) per Steam and PS Store. Size is estimated at 3.2 GB from the previous franchise release, Layton's Mystery Journey Deluxe on Switch (Nintendo AU page); no stated size yet. No preload found.",
+   "issue_number": 42,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/42",
+   "published_at": "2026-11-14T01:02:38.798976+00:00",
+   "updated_at": "2026-11-14T01:02:38.798976+00:00"
+  },
+  {
    "id": 46,
    "title": {
     "id": 45,
