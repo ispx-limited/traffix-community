@@ -786,6 +786,37 @@
    "updated_at": "2026-11-11T23:21:34.044990+00:00"
   },
   {
+   "id": 47,
+   "title": {
+    "id": 46,
+    "name": "Disney Dreamlight Valley",
+    "slug": "disney-dreamlight-valley",
+    "steam_app_id": null,
+    "image_url": "https://nintendoeverything.com/wp-content/uploads/Disney-Dreamlight-Valley-Keepsake-Sea-release-date-details.jpg"
+   },
+   "kind": "game_update",
+   "name": "Disney Dreamlight Valley: The Keepsake Sea (expansion)",
+   "version": null,
+   "platforms": [
+    "pc",
+    "switch"
+   ],
+   "starts_at": "2026-11-18T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 15.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 24,
+   "summary": "Paid expansion. The only source I could read is an unlisted outlet (nintendoeverything.com). It names Switch and Switch 2. The Nintendo Direct recap I opened (playday.one) lists the game for November 2026 on Switch 2, Switch, Xbox and PlayStation, so other platforms are likely but I did not confirm them. No download size found. No publisher or store page was opened, so the date is not confirmed by tier A. No artwork found.",
+   "issue_number": 81,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/81",
+   "published_at": "2026-11-14T01:02:33.319145+00:00",
+   "updated_at": "2026-11-14T01:02:33.319145+00:00"
+  },
+  {
    "id": 24,
    "title": {
     "id": 24,
