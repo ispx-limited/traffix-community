@@ -1539,6 +1539,34 @@
    "updated_at": "2026-11-13T22:03:18.989757+00:00"
   },
   {
+   "id": 63,
+   "title": {
+    "id": 62,
+    "name": "FA Cup final 2027",
+    "slug": "fa-cup-final-2027",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "live_stream",
+   "name": "Emirates FA Cup Final 2027, Wembley",
+   "version": null,
+   "platforms": [],
+   "starts_at": "2027-05-22T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": null,
+   "size_basis": "stated",
+   "service": "bbc_iplayer",
+   "popularity_tier": "massive",
+   "impact_score": 50,
+   "summary": "FA Cup final on Saturday 22 May 2027 at Wembley. Kick-off time not yet announced. Service is a best estimate: TNT Sports holds the rights and sub-licenses 14 games a season to the BBC; I could not confirm on a tier A page that the BBC simulcasts the final.",
+   "issue_number": 100,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/100",
+   "published_at": "2026-11-14T03:30:22.205384+00:00",
+   "updated_at": "2026-11-14T03:30:22.205384+00:00"
+  },
+  {
    "id": 62,
    "title": {
     "id": 61,
