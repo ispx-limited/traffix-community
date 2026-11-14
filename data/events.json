@@ -693,6 +693,36 @@
    "updated_at": "2024-11-19T00:00:00+00:00"
   },
   {
+   "id": 51,
+   "title": {
+    "id": 50,
+    "name": "Android 17 QPR2 / December 2026 Pixel Drop",
+    "slug": "android-17-qpr2-december-2026-pixel-drop",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "Android 17 QPR2 stable rollout for Pixel",
+   "version": "Android 17 QPR2",
+   "platforms": [
+    "android"
+   ],
+   "starts_at": "2026-11-10T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 3.94,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 36,
+   "summary": "Android 17 QPR2 stable began rolling out to Pixel 6a through Pixel 11 Pro Fold on 2026-11-10, a month before the expected December Pixel Drop, according to 9to5Google. The stable OTA size is not stated by any source I read. Lead only: a Beta 4 OTA was reported at about 3.94 GB on Pixel 11 Pro.",
+   "issue_number": 25,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/25",
+   "published_at": "2026-11-14T01:34:20.439076+00:00",
+   "updated_at": "2026-11-14T01:34:20.439076+00:00"
+  },
+  {
    "id": 37,
    "title": {
     "id": 36,
