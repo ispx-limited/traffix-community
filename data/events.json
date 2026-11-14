@@ -1159,6 +1159,39 @@
    "updated_at": "2026-11-14T01:02:38.798976+00:00"
   },
   {
+   "id": 58,
+   "title": {
+    "id": 57,
+    "name": "Attack on Titan 3",
+    "slug": "attack-on-titan-3",
+    "steam_app_id": null,
+    "image_url": "https://www.koeitecmoamerica.com/wp-content/uploads/2026/08/aot3_PV2new_4K_US.webp"
+   },
+   "kind": "game_release",
+   "name": "Attack on Titan 3",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "switch"
+   ],
+   "starts_at": "2026-12-10T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 30.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 28,
+   "summary": "Release 10 Dec 2026 (Steam 9 Dec). Size not stated by any source yet; 30 GB is estimated from the franchise's previous release, Attack on Titan 2: Final Battle, whose Steam page states 30 GB. A tier C tracker lists 104 GB.",
+   "issue_number": 43,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/43",
+   "published_at": "2026-11-14T03:29:54.249930+00:00",
+   "updated_at": "2026-11-14T03:29:54.249930+00:00"
+  },
+  {
    "id": 55,
    "title": {
     "id": 54,
