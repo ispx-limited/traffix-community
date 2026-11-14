@@ -1348,6 +1348,39 @@
    "updated_at": "2026-11-14T02:43:06.624672+00:00"
   },
   {
+   "id": 65,
+   "title": {
+    "id": 64,
+    "name": "Tomb Raider: Legacy of Atlantis",
+    "slug": "tomb-raider-legacy-of-atlantis",
+    "steam_app_id": 3558670,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/d0d4229807e9bd939c2374cb94a1264aa1386398/header.jpg?t=1793725823"
+   },
+   "kind": "game_release",
+   "name": "Tomb Raider: Legacy of Atlantis",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "switch"
+   ],
+   "starts_at": "2027-02-12T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 80.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 55,
+   "summary": "Release on PS5, Xbox Series X|S, Steam and Switch 2 on 12 Feb 2027, with 48-hour early access on the Deluxe Edition. No console size or preload window is stated. About 80 GB is taken from the Steam page's PC storage requirement of 80 GB, so it is an estimate for the console versions.",
+   "issue_number": 103,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/103",
+   "published_at": "2026-11-14T16:05:48.077790+00:00",
+   "updated_at": "2026-11-14T16:05:48.077790+00:00"
+  },
+  {
    "id": 60,
    "title": {
     "id": 59,
