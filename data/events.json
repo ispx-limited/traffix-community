@@ -1537,6 +1537,34 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/82",
    "published_at": "2026-11-13T22:03:18.989757+00:00",
    "updated_at": "2026-11-13T22:03:18.989757+00:00"
+  },
+  {
+   "id": 62,
+   "title": {
+    "id": 61,
+    "name": "Premier League final day 2026/27",
+    "slug": "premier-league-final-day-2026-27",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "live_stream",
+   "name": "Premier League final round, all ten matches simultaneous",
+   "version": null,
+   "platforms": [],
+   "starts_at": "2027-05-30T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": null,
+   "size_basis": "stated",
+   "service": "sky",
+   "popularity_tier": "high",
+   "impact_score": 35,
+   "summary": "Final round of the 2026/27 Premier League on Sunday 30 May 2027, all ten games at the same time. Kick-off time not stated on the page I read; whether any title or relegation decider is live is known only later. Sky Sports shows the final day (service inferred from Sky's own page).",
+   "issue_number": 99,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/99",
+   "published_at": "2026-11-14T03:30:16.657423+00:00",
+   "updated_at": "2026-11-14T03:30:16.657423+00:00"
   }
  ]
 }
