@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.27.0",
+ "traffix_version": "0.27.1",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -876,6 +876,37 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/6",
    "published_at": "2026-11-11T16:10:42.208203+00:00",
    "updated_at": "2026-11-11T16:10:42.208203+00:00"
+  },
+  {
+   "id": 57,
+   "title": {
+    "id": 56,
+    "name": "iOS 27.3 / macOS 27.3",
+    "slug": "ios-27-3-macos-27-3",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "iOS 27.3, iPadOS 27.3 and macOS Golden Gate 27.3",
+   "version": "27.3",
+   "platforms": [
+    "ios",
+    "macos"
+   ],
+   "starts_at": "2026-12-01T00:00:00+00:00",
+   "date_precision": "month",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 16.5,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 54,
+   "summary": "Developer beta 1 of iOS 27.3 and macOS Golden Gate 27.3 shipped 3 Nov 2026 and public betas followed 5 Nov. Apple has said the release comes in December 2026 but has given no day, so the date is month precision. Download size is not stated by any tier A or B source found.",
+   "issue_number": 7,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/7",
+   "published_at": "2026-11-14T03:29:49.017784+00:00",
+   "updated_at": "2026-11-14T03:29:49.017784+00:00"
   },
   {
    "id": 36,
