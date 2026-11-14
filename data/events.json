@@ -1036,6 +1036,36 @@
    "updated_at": "2026-11-11T23:21:25.099502+00:00"
   },
   {
+   "id": 50,
+   "title": {
+    "id": 49,
+    "name": "Windows 11 monthly cumulative update (December 2026, 2026-12 B)",
+    "slug": "windows-11-monthly-cumulative-update-december-2026-2026-12-b",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "Windows 11 2026-12 B cumulative update (Patch Tuesday)",
+   "version": null,
+   "platforms": [
+    "windows"
+   ],
+   "starts_at": "2026-12-08T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": null,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 50,
+   "summary": "Monthly security cumulative update for Windows 11 26H2, 25H2, 24H2 and 26H1, expected on the second Tuesday of December (2026-12-08). The date follows Microsoft's usual pattern, since the release-health page shows the 2026-11 B update on 2026-11-10 and the 2026-10 B update on 2026-10-13. Size not stated; typically under 1 GB and the platform bound is 12 GB. Windows 11 26H2 reached general availability on 2026-09-29.",
+   "issue_number": 26,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/26",
+   "published_at": "2026-11-14T01:33:52.372001+00:00",
+   "updated_at": "2026-11-14T01:33:52.372001+00:00"
+  },
+  {
    "id": 48,
    "title": {
     "id": 47,
