@@ -1128,6 +1128,36 @@
    "updated_at": "2026-11-14T01:02:38.798976+00:00"
   },
   {
+   "id": 55,
+   "title": {
+    "id": 54,
+    "name": "Kirby and the World Beyond",
+    "slug": "kirby-and-the-world-beyond",
+    "steam_app_id": null,
+    "image_url": "https://images.ctfassets.net/pkeegl0voupm/7KHWlInflSMLCddWjYnTZ8/2f3c635871257735f729c0340757d5ed/kirby_and_the_world_beyond_bnr.jpg"
+   },
+   "kind": "game_release",
+   "name": "Kirby and the World Beyond",
+   "version": null,
+   "platforms": [
+    "switch"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "quarter",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 21.9,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 40,
+   "summary": "Switch 2 exclusive, stated by Nintendo only as spring 2027, so the date is the season starting 1 March 2027 (no day known). About 21.9 GB estimated from Kirby Air Riders' 21.9 GB file size on the Nintendo store. No preload known.",
+   "issue_number": 96,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/96",
+   "published_at": "2026-11-14T02:51:45.311565+00:00",
+   "updated_at": "2026-11-14T02:51:45.311565+00:00"
+  },
+  {
    "id": 54,
    "title": {
     "id": 53,
