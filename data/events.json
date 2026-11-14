@@ -1100,6 +1100,36 @@
    "updated_at": "2026-11-14T01:02:27.552624+00:00"
   },
   {
+   "id": 49,
+   "title": {
+    "id": 48,
+    "name": "iOS 27.4 / iPadOS 27.4",
+    "slug": "ios-27-4-ipados-27-4",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "iOS 27.4 and iPadOS 27.4 (spring release)",
+   "version": "27.4",
+   "platforms": [
+    "ios"
+   ],
+   "starts_at": "2027-03-01T00:00:00+00:00",
+   "date_precision": "quarter",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 12.7,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": null,
+   "impact_score": 3,
+   "summary": "MacRumors reports Apple is already testing iOS 27.4 and calls it the 'spring' software release. No day is stated, so starts_at is the first day of March 2027 as an approximation of spring (quarter precision). No size is stated yet; no comparable size was sourced.",
+   "issue_number": 89,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/89",
+   "published_at": "2026-11-14T01:33:27.597430+00:00",
+   "updated_at": "2026-11-14T01:33:27.597430+00:00"
+  },
+  {
    "id": 45,
    "title": {
     "id": 44,
