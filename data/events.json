@@ -1409,6 +1409,38 @@
    "updated_at": "2026-11-14T01:33:27.597430+00:00"
   },
   {
+   "id": 59,
+   "title": {
+    "id": 58,
+    "name": "EXODUS",
+    "slug": "exodus",
+    "steam_app_id": 3230960,
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3230960/c7daff445142b7d24677b2e962bd84314da0b813/header.jpg?t=1792685162"
+   },
+   "kind": "game_release",
+   "name": "EXODUS",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2027-04-07T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 125.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 66,
+   "summary": "Archetype Entertainment's EXODUS launches April 7, 2027 on PC (Steam, Epic), PS5 and Xbox Series X|S. The date is stated on the Steam store page and in the publisher's news post. Size is an estimate of 125 GB taken from Starfield's Steam storage line, since EXODUS's Steam page says 'TBD'. No preload is announced.",
+   "issue_number": 84,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/84",
+   "published_at": "2026-11-14T03:29:59.415159+00:00",
+   "updated_at": "2026-11-14T03:29:59.415159+00:00"
+  },
+  {
    "id": 45,
    "title": {
     "id": 44,
