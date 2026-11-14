@@ -1347,6 +1347,38 @@
    "updated_at": "2026-11-14T02:43:06.624672+00:00"
   },
   {
+   "id": 60,
+   "title": {
+    "id": 59,
+    "name": "Persona 4 Revival",
+    "slug": "persona-4-revival",
+    "steam_app_id": 2963950,
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2963950/e83b7da1c2e9ddbed1a27038bd86e9714b2aa893/header.jpg?t=1794364839"
+   },
+   "kind": "game_release",
+   "name": "Persona 4 Revival",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2027-02-18T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 30.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 43,
+   "summary": "Reported for February 18, 2027 on PS5, Xbox Series and PC (Steam shows Feb 17 in some time zones); Switch 2 version May 20, 2027. I could not read the date or storage on a page I opened: the Steam page was age-gated. No size or preload known.",
+   "issue_number": 85,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/85",
+   "published_at": "2026-11-14T03:30:04.602899+00:00",
+   "updated_at": "2026-11-14T03:30:04.602899+00:00"
+  },
+  {
    "id": 46,
    "title": {
     "id": 45,
