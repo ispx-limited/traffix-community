@@ -1445,6 +1445,36 @@
    "updated_at": "2026-11-14T01:02:27.552624+00:00"
   },
   {
+   "id": 67,
+   "title": {
+    "id": 66,
+    "name": "Hyrule Warriors: Age of Calamity \u2013 Definitive Edition",
+    "slug": "hyrule-warriors-age-of-calamity-definitive-edition",
+    "steam_app_id": null,
+    "image_url": "https://images.rpgsite.net/entities/cover/a3ecf1c/1063/cover/big.png"
+   },
+   "kind": "game_release",
+   "name": "Hyrule Warriors: Age of Calamity \u2013 Definitive Edition (Switch 2)",
+   "version": null,
+   "platforms": [
+    "switch"
+   ],
+   "starts_at": "2027-02-25T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 22.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 26,
+   "summary": "Switch 2 version, 25 February 2027, per RPG Site (tier B). I did not reach the Nintendo page, no size is stated and no comparable size page was opened. The artwork is a press cover image, not a publisher image.",
+   "issue_number": 115,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/115",
+   "published_at": "2026-11-15T16:14:08.446375+00:00",
+   "updated_at": "2026-11-15T16:14:08.446375+00:00"
+  },
+  {
    "id": 49,
    "title": {
     "id": 48,
