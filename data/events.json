@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.27.1",
+ "traffix_version": "0.28.0",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -1473,6 +1473,38 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/89",
    "published_at": "2026-11-14T01:33:27.597430+00:00",
    "updated_at": "2026-11-14T01:33:27.597430+00:00"
+  },
+  {
+   "id": 66,
+   "title": {
+    "id": 65,
+    "name": "GUNDAM ROGUE ORBIT",
+    "slug": "gundam-rogue-orbit",
+    "steam_app_id": 1963680,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1963680/401a6de47a6fd341b81450034dc3b5d86e657ee3/header.jpg?t=1792422532"
+   },
+   "kind": "game_release",
+   "name": "GUNDAM ROGUE ORBIT",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2027-03-05T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 14.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 24,
+   "summary": "Bandai Namco high-mobility Gundam action game. The publisher gives March 5, 2027 and the Steam page shows 4 March 2027, probably a time-zone difference. No size is stated. About 14 GB is estimated from Bandai Namco's earlier Gundam Breaker 4, which lists 14 GB on Steam. No preload window is announced.",
+   "issue_number": 117,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/117",
+   "published_at": "2026-11-15T16:12:13.993924+00:00",
+   "updated_at": "2026-11-15T16:12:13.993924+00:00"
   },
   {
    "id": 59,
