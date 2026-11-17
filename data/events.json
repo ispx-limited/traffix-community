@@ -1414,6 +1414,36 @@
    "updated_at": "2026-11-14T02:46:43.311676+00:00"
   },
   {
+   "id": 73,
+   "title": {
+    "id": 71,
+    "name": "Forza Horizon 6 (PS5)",
+    "slug": "forza-horizon-6-ps5",
+    "steam_app_id": 2483190,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1793894652"
+   },
+   "kind": "game_release",
+   "name": "Forza Horizon 6 for PlayStation 5",
+   "version": null,
+   "platforms": [
+    "playstation"
+   ],
+   "starts_at": "2027-01-26T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 167.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 92,
+   "summary": "PS5 launch of Forza Horizon 6 on 26 January 2027, with Premium Edition early access from 21 January and the first expansion arriving the same day. No PS5 size or preload window has been published; about 167 GB is estimated from the PC version's 167 GB requirement on Steam, and the console figure may be somewhat lower.",
+   "issue_number": 112,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/112",
+   "published_at": "2026-11-17T14:52:36.357980+00:00",
+   "updated_at": "2026-11-17T14:52:36.357980+00:00"
+  },
+  {
    "id": 53,
    "title": {
     "id": 52,
