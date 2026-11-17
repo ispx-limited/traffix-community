@@ -1569,6 +1569,36 @@
    "updated_at": "2026-11-14T02:46:38.107358+00:00"
   },
   {
+   "id": 77,
+   "title": {
+    "id": 75,
+    "name": "Until Dawn 2",
+    "slug": "until-dawn-2",
+    "steam_app_id": null,
+    "image_url": "https://blog.playstation.com/tachyon/2026/09/1329cf72abdda083d86059fff4a9adbd2ff3197c.png?resize=1088%2C612&crop_strategy=smart"
+   },
+   "kind": "game_release",
+   "name": "Until Dawn 2",
+   "version": null,
+   "platforms": [
+    "playstation"
+   ],
+   "starts_at": "2027-01-28T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 56.7,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 49,
+   "summary": "Firesprite's sequel launches on PS5 on 28 January 2027 per the PlayStation Blog. No size is stated yet; about 56.7 GB is estimated from the 2024 Until Dawn PS5 remake download size (56.676 GB), reported by GamingBolt. No preload window is announced yet.",
+   "issue_number": 107,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/107",
+   "published_at": "2026-11-17T14:52:59.404716+00:00",
+   "updated_at": "2026-11-17T14:52:59.404716+00:00"
+  },
+  {
    "id": 52,
    "title": {
     "id": 51,
