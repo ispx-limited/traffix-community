@@ -943,6 +943,37 @@
    "updated_at": "2026-11-17T09:16:54.596319+00:00"
   },
   {
+   "id": 71,
+   "title": {
+    "id": 33,
+    "name": "Helldivers 2",
+    "slug": "helldivers-2",
+    "steam_app_id": 553850,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg"
+   },
+   "kind": "game_update",
+   "name": "Helldivers 2 Major Update 8.0",
+   "version": "8.0",
+   "platforms": [
+    "pc",
+    "playstation"
+   ],
+   "starts_at": "2026-12-01T00:00:00+00:00",
+   "date_precision": "month",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 15.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 39,
+   "summary": "Arrowhead's Steam developer blog of November 2026 says Major Update 8.0 arrives in early December 2026, with no exact day, so the date is month precision. No page states the download size. The 15 GB estimate is taken from the previous December major update, 1.005.000 on 2025-12-02, listed at 15 GB on the Helldivers wiki.",
+   "issue_number": 50,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/50",
+   "published_at": "2026-11-17T13:45:04.391671+00:00",
+   "updated_at": "2026-11-17T13:45:04.391671+00:00"
+  },
+  {
    "id": 36,
    "title": {
     "id": 35,
