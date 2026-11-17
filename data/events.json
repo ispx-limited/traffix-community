@@ -1414,6 +1414,38 @@
    "updated_at": "2026-11-14T02:46:43.311676+00:00"
   },
   {
+   "id": 74,
+   "title": {
+    "id": 72,
+    "name": "STRANGER THAN HEAVEN",
+    "slug": "stranger-than-heaven",
+    "steam_app_id": 4260840,
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4260840/3e40b76faf9a3eafb4397dd51308eb2e48ac3660/header.jpg?t=1794198873"
+   },
+   "kind": "game_release",
+   "name": "STRANGER THAN HEAVEN",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2027-01-15T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 56.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 34,
+   "summary": "RGG Studio and SEGA game on PS5, Xbox Series X|S, Xbox Game Pass and Steam, 15 January 2027. Steam system requirements were not readable (age gate), so there is no size. Search snippets of Steam show 14 January, which I could not verify.",
+   "issue_number": 114,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/114",
+   "published_at": "2026-11-17T14:52:41.821092+00:00",
+   "updated_at": "2026-11-17T14:52:41.821092+00:00"
+  },
+  {
    "id": 73,
    "title": {
     "id": 71,
