@@ -1381,6 +1381,38 @@
    "updated_at": "2026-11-17T14:52:30.377625+00:00"
   },
   {
+   "id": 75,
+   "title": {
+    "id": 73,
+    "name": "Monster Hunter Wilds: Ascendance",
+    "slug": "monster-hunter-wilds-ascendance",
+    "steam_app_id": 4829700,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829700/6a3eec73bed78fafa128e24dddb872df87832dff/header.jpg?t=1788503895"
+   },
+   "kind": "game_update",
+   "name": "Monster Hunter Wilds: Ascendance (expansion)",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "year",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 75.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 54,
+   "summary": "Major paid expansion for Monster Hunter Wilds, dated only as 2027, so starts_at is the first day of the year. No size is stated. About 75 GB is estimated from the base game's 75 GB storage requirement on Steam, and a real expansion download is probably smaller.",
+   "issue_number": 116,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/116",
+   "published_at": "2026-11-17T14:52:47.464756+00:00",
+   "updated_at": "2026-11-17T14:52:47.464756+00:00"
+  },
+  {
    "id": 54,
    "title": {
     "id": 53,
