@@ -1351,6 +1351,36 @@
    "updated_at": "2026-11-17T09:17:15.674275+00:00"
   },
   {
+   "id": 72,
+   "title": {
+    "id": 70,
+    "name": "Pok\u00e9mon Winds",
+    "slug": "pokemon-winds",
+    "steam_app_id": null,
+    "image_url": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pokemonwindswaves/16x9_NSwitch2_PokemonWinds_GBen_image1600w.jpg"
+   },
+   "kind": "game_release",
+   "name": "Pok\u00e9mon Winds and Pok\u00e9mon Waves",
+   "version": null,
+   "platforms": [
+    "switch"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "year",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 11.3,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 53,
+   "summary": "Nintendo lists the release only as 2027, so starts_at is the first day of the year. No exact date or preload is stated. Size is estimated at 11.3 GB from the previous Switch 2 Pok\u00e9mon release, Pok\u00e9mon Legends: Z-A, as listed on Nintendo's US store.",
+   "issue_number": 104,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/104",
+   "published_at": "2026-11-17T14:52:30.377625+00:00",
+   "updated_at": "2026-11-17T14:52:30.377625+00:00"
+  },
+  {
    "id": 54,
    "title": {
     "id": 53,
