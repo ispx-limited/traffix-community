@@ -1509,6 +1509,36 @@
    "updated_at": "2026-11-17T14:53:04.842199+00:00"
   },
   {
+   "id": 81,
+   "title": {
+    "id": 79,
+    "name": "Xenoblade Genesis",
+    "slug": "xenoblade-genesis",
+    "steam_app_id": null,
+    "image_url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000130289/763ada1052f5bf7b46b69a190f0646bc60f00b61f6b3a106a3f3331273194cb3"
+   },
+   "kind": "game_release",
+   "name": "Xenoblade Genesis",
+   "version": null,
+   "platforms": [
+    "switch"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "year",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 42.6,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 46,
+   "summary": "Monolith Soft's new mainline Xenoblade for Switch 2, stated only as 2027 by Nintendo; no day or month. About 42.6 GB, estimated from the listed size of Xenoblade Chronicles 3 Nintendo Switch 2 Edition on the Nintendo store. The artwork URL is the first product image on the Nintendo page, not a confirmed og:image.",
+   "issue_number": 128,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/128",
+   "published_at": "2026-11-17T16:16:52.513740+00:00",
+   "updated_at": "2026-11-17T16:16:52.513740+00:00"
+  },
+  {
    "id": 54,
    "title": {
     "id": 53,
