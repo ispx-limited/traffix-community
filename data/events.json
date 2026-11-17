@@ -1287,6 +1287,39 @@
    "updated_at": "2026-11-14T03:30:11.201086+00:00"
   },
   {
+   "id": 70,
+   "title": {
+    "id": 69,
+    "name": "The Witcher 3: Wild Hunt",
+    "slug": "the-witcher-3-wild-hunt",
+    "steam_app_id": 292030,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b5b1ba5061b8a992cc69ac58b4245434edb4296/header.jpg?t=1793900434"
+   },
+   "kind": "game_update",
+   "name": "The Witcher 3: Wild Hunt \u2013 Songs of the Past (expansion)",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "switch"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "year",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 60.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 65,
+   "summary": "CD Projekt Red's third Witcher 3 expansion, stated only as 2027, with no month or day, so starts_at is the year's first day. No page states its size. About 60 GB, from the 60 GB SSD storage requirement on the base game's Steam page. Insider Gaming (tier C) reports the new minimum as 70 GB SSD, which may be the figure to use once Steam updates. No preload announced.",
+   "issue_number": 119,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/119",
+   "published_at": "2026-11-17T09:17:15.674275+00:00",
+   "updated_at": "2026-11-17T09:17:15.674275+00:00"
+  },
+  {
    "id": 54,
    "title": {
     "id": 53,
