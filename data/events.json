@@ -909,6 +909,40 @@
    "updated_at": "2026-11-14T03:29:49.017784+00:00"
   },
   {
+   "id": 69,
+   "title": {
+    "id": 68,
+    "name": "Warframe",
+    "slug": "warframe",
+    "steam_app_id": 230410,
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg?t=1793987416"
+   },
+   "kind": "game_update",
+   "name": "Warframe: Tau",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "switch",
+    "ios"
+   ],
+   "starts_at": "2026-12-01T00:00:00+00:00",
+   "date_precision": "month",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 6.04,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 37,
+   "summary": "Warframe: Tau, a free expansion DE calls its most expansive update ever, is dated only as December 2026. No exact day is published, so starts_at is the month's first day. Press says the day may be named at Devstream 199 on 27 November. That is unconfirmed and not used as the date. No size is stated for Tau. About 6 GB is estimated from the PC DirectX 12 download of the previous big update, The Old Peace (Update 41), at about 6.04 GB. The same report lists consoles at 11.5 to 16.5 GB, so console downloads will be larger than the PC figure. That page is not tier A or B, so the proposal waits for an owner.",
+   "issue_number": 120,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/120",
+   "published_at": "2026-11-17T09:16:54.596319+00:00",
+   "updated_at": "2026-11-17T09:16:54.596319+00:00"
+  },
+  {
    "id": 36,
    "title": {
     "id": 35,
