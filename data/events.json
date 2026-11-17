@@ -1,5 +1,5 @@
 {
- "traffix_version": "0.28.0",
+ "traffix_version": "0.29.0",
  "site": "https://traffix.ispx.co",
  "events": [
   {
@@ -1537,6 +1537,36 @@
    "issue_url": "https://github.com/ispx-limited/traffix-community/issues/128",
    "published_at": "2026-11-17T16:16:52.513740+00:00",
    "updated_at": "2026-11-17T16:16:52.513740+00:00"
+  },
+  {
+   "id": 82,
+   "title": {
+    "id": 27,
+    "name": "Windows 11",
+    "slug": "windows-11",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "Windows 11 monthly cumulative update (January 2027, 2027-01 B)",
+   "version": null,
+   "platforms": [
+    "windows"
+   ],
+   "starts_at": "2027-01-12T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 5.26,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 51,
+   "summary": "January 2027 Patch Tuesday, the second Tuesday of the month. Microsoft says there is no December 2026 preview update and that regular servicing resumes in January 2027. Size is estimated from the November 2026 cumulative update KB5132061 (5020.7 MB x64 in the Update Catalog).",
+   "issue_number": 106,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/106",
+   "published_at": "2026-11-17T23:18:11.131513+00:00",
+   "updated_at": "2026-11-17T23:18:11.131513+00:00"
   },
   {
    "id": 54,
