@@ -1444,6 +1444,39 @@
    "updated_at": "2026-11-17T14:52:53.150067+00:00"
   },
   {
+   "id": 78,
+   "title": {
+    "id": 76,
+    "name": "Resident Evil Veronica",
+    "slug": "resident-evil-veronica",
+    "steam_app_id": 4824610,
+    "image_url": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/residentevilveronica/16x9_ResidentEvilVeronica_image1280w.jpg"
+   },
+   "kind": "game_release",
+   "name": "Resident Evil Veronica",
+   "version": null,
+   "platforms": [
+    "playstation",
+    "xbox",
+    "switch",
+    "pc"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "year",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 29.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "high",
+   "impact_score": 42,
+   "summary": "Capcom's Code Veronica remake, announced at Summer Game Fest in June 2026 for PS5, Xbox Series X|S, Switch 2 and PC. Search results give only a 2027 window and no exact date. I could not open Capcom's page or Gematsu (both returned 403, and traffix-fetch failed), so no page I read backs this and no size, preload or artwork was found. Treat it as a lead, not a verified event.",
+   "issue_number": 86,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/86",
+   "published_at": "2026-11-17T14:53:04.842199+00:00",
+   "updated_at": "2026-11-17T14:53:04.842199+00:00"
+  },
+  {
    "id": 54,
    "title": {
     "id": 53,
