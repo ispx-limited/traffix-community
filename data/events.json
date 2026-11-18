@@ -1755,6 +1755,36 @@
    "updated_at": "2026-11-17T14:52:59.404716+00:00"
   },
   {
+   "id": 83,
+   "title": {
+    "id": 80,
+    "name": "Warhammer 40,000: Dark Heresy",
+    "slug": "warhammer-40-000-dark-heresy",
+    "steam_app_id": 3710600,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710600/c9cff4a2e091c0590909762a6d4296eeee5859a1/header.jpg?t=1794240130"
+   },
+   "kind": "game_release",
+   "name": "Warhammer 40,000: Dark Heresy",
+   "version": null,
+   "platforms": [
+    "pc"
+   ],
+   "starts_at": "2027-01-28T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 40.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 30,
+   "summary": "Steam lists release on 28 Jan 2027, Windows only, with a 40 GB storage requirement. No preload notice on the page. It ranks 22nd on Steam's top wishlists.",
+   "issue_number": 133,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/133",
+   "published_at": "2026-11-18T16:01:40.108775+00:00",
+   "updated_at": "2026-11-18T16:01:40.108775+00:00"
+  },
+  {
    "id": 52,
    "title": {
     "id": 51,
