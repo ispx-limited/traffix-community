@@ -1572,6 +1572,36 @@
    "updated_at": "2026-11-18T16:13:53.127122+00:00"
   },
   {
+   "id": 87,
+   "title": {
+    "id": 84,
+    "name": "Westlanders",
+    "slug": "westlanders",
+    "steam_app_id": 3886530,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886530/d56a2d5a20b9be26082c5aceea020757eef920bd/header.jpg?t=1794323705"
+   },
+   "kind": "game_release",
+   "name": "Westlanders (Early Access)",
+   "version": null,
+   "platforms": [
+    "pc"
+   ],
+   "starts_at": "2027-01-01T00:00:00+00:00",
+   "date_precision": "year",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 50.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "low",
+   "impact_score": 17,
+   "summary": "Team17-published wild-west open-world survival game, Early Access planned 2027 on Steam; year-level date only. Steam lists 50 GB storage.",
+   "issue_number": 153,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/153",
+   "published_at": "2026-11-21T16:20:13.872696+00:00",
+   "updated_at": "2026-11-21T16:20:13.872696+00:00"
+  },
+  {
    "id": 82,
    "title": {
     "id": 27,
