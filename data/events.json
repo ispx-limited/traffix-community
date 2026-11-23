@@ -974,6 +974,36 @@
    "updated_at": "2026-11-17T13:45:04.391671+00:00"
   },
   {
+   "id": 94,
+   "title": {
+    "id": 27,
+    "name": "Windows 11",
+    "slug": "windows-11",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "Windows 11 optional non-security preview update (2026-12 D, fourth week of December)",
+   "version": null,
+   "platforms": [
+    "windows"
+   ],
+   "starts_at": "2026-12-01T00:00:00+00:00",
+   "date_precision": "month",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 5.29,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 51,
+   "summary": "Microsoft states the optional non-security preview update ships in the fourth week of each month, so December 2026's lands in the fourth week of December; no page states an exact day, so the date is given at month precision. Size is estimated at about 5.29 GB from last month's 2026-11 D preview (KB5132057) x64 package, listed at 5044.1 MB (5289151769 bytes) in the Microsoft Update Catalog.",
+   "issue_number": 149,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/149",
+   "published_at": "2026-11-23T16:20:57.783866+00:00",
+   "updated_at": "2026-11-23T16:20:57.783866+00:00"
+  },
+  {
    "id": 36,
    "title": {
     "id": 35,
