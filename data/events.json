@@ -2319,6 +2319,36 @@
    "updated_at": "2026-11-13T22:03:18.989757+00:00"
   },
   {
+   "id": 93,
+   "title": {
+    "id": 27,
+    "name": "Windows 11",
+    "slug": "windows-11",
+    "steam_app_id": null,
+    "image_url": null
+   },
+   "kind": "platform_update",
+   "name": "Windows 11 monthly cumulative update (April 2027, 2027-04 B)",
+   "version": null,
+   "platforms": [
+    "windows"
+   ],
+   "starts_at": "2027-04-13T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 5.26,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "massive",
+   "impact_score": 51,
+   "summary": "Patch Tuesday for April 2027, the second Tuesday (13 April), per Microsoft's stated release cycle. Size is an estimate: about 4.85 GB, taken from the Update Catalog entry for November 2026's 2026-11 B cumulative update (KB5132061).",
+   "issue_number": 175,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/175",
+   "published_at": "2026-11-23T16:20:51.442870+00:00",
+   "updated_at": "2026-11-23T16:20:51.442870+00:00"
+  },
+  {
    "id": 92,
    "title": {
     "id": 27,
