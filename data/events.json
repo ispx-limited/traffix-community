@@ -1880,6 +1880,36 @@
    "updated_at": "2026-11-14T02:43:06.624672+00:00"
   },
   {
+   "id": 89,
+   "title": {
+    "id": 86,
+    "name": "Outward 2",
+    "slug": "outward-2",
+    "steam_app_id": 2849490,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2849490/8c4c2ce64e17967617a5a155920561d54b5fe351/header.jpg?t=1791475432"
+   },
+   "kind": "game_release",
+   "name": "Outward 2 (Early Access)",
+   "version": null,
+   "platforms": [
+    "pc"
+   ],
+   "starts_at": "2027-02-07T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 25.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 26,
+   "summary": "Early Access launch on Steam (also Epic and GOG per press). Steam shows 7 Feb 2027; press (Gematsu, not opened, 403) reports 8 Feb, likely a time-zone difference. Delayed from July 2026.",
+   "issue_number": 171,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/171",
+   "published_at": "2026-11-23T16:02:25.296246+00:00",
+   "updated_at": "2026-11-23T16:02:25.296246+00:00"
+  },
+  {
    "id": 86,
    "title": {
     "id": 83,
