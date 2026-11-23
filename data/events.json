@@ -2097,6 +2097,39 @@
    "updated_at": "2026-11-14T01:33:27.597430+00:00"
   },
   {
+   "id": 90,
+   "title": {
+    "id": 87,
+    "name": "Trine 6: Together in Time",
+    "slug": "trine-6-together-in-time",
+    "steam_app_id": 2932260,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932260/dc0f3dfe24ec2e83b5cf40680c29bc5034798534/header.jpg?t=1793864040"
+   },
+   "kind": "game_release",
+   "name": "Trine 6: Together in Time",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "switch"
+   ],
+   "starts_at": "2027-03-04T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 12.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "low",
+   "impact_score": 8,
+   "summary": "Delayed from Sept 17, 2026 to March 4, 2027. Steam page shows the new date and a 12 GB requirement. Console platforms per press (Gematsu, not opened).",
+   "issue_number": 172,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/172",
+   "published_at": "2026-11-23T16:02:30.410614+00:00",
+   "updated_at": "2026-11-23T16:02:30.410614+00:00"
+  },
+  {
    "id": 66,
    "title": {
     "id": 65,
