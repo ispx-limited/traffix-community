@@ -1878,6 +1878,68 @@
    "updated_at": "2026-11-18T16:01:40.108775+00:00"
   },
   {
+   "id": 95,
+   "title": {
+    "id": 88,
+    "name": "Fate/EXTRA Record",
+    "slug": "fate-extra-record",
+    "steam_app_id": 2155070,
+    "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155070/be0b6645d5593ad4b38feaa57ebb6a324c7d04cf/header.jpg?t=1789712401"
+   },
+   "kind": "game_release",
+   "name": "Fate/EXTRA Record",
+   "version": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "switch"
+   ],
+   "starts_at": "2027-01-28T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 31.0,
+   "size_basis": "stated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 28,
+   "summary": "Launches 28 January 2027 on PS5, PS4, Switch 2, Switch and PC. The 31 GB is the Steam PC requirement; console sizes are not yet published, so treat it as the PC figure and as a proxy for the others. No preload window announced.",
+   "issue_number": 190,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/190",
+   "published_at": "2026-11-25T16:07:41.638838+00:00",
+   "updated_at": "2026-11-25T16:07:41.638838+00:00"
+  },
+  {
+   "id": 96,
+   "title": {
+    "id": 89,
+    "name": "Nioh 3 (Xbox Series X|S)",
+    "slug": "nioh-3-xbox-series-x-s",
+    "steam_app_id": 3681010,
+    "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Nioh-3-Key-Art-Logo-1f9702a7ae1d63984be4-1600x900.jpg"
+   },
+   "kind": "game_release",
+   "name": "Nioh 3 Xbox Series X|S launch",
+   "version": null,
+   "platforms": [
+    "xbox"
+   ],
+   "starts_at": "2027-01-28T00:00:00+00:00",
+   "date_precision": "day",
+   "preload_at": null,
+   "preload_precision": "day",
+   "size_gb": 125.0,
+   "size_basis": "estimated",
+   "service": null,
+   "popularity_tier": "medium",
+   "impact_score": 51,
+   "summary": "Nioh 3 launches on Xbox Series X|S on January 28, 2027 per Xbox Wire. No page states the Xbox size; about 125 GB is estimated from the game's own PC storage requirement of 125 GB reported by GamingBolt (the PS5 install is reported near 75 GB, so the Xbox size may be lower). No preload window announced yet.",
+   "issue_number": 192,
+   "issue_url": "https://github.com/ispx-limited/traffix-community/issues/192",
+   "published_at": "2026-11-26T16:06:48.422510+00:00",
+   "updated_at": "2026-11-26T16:06:48.422510+00:00"
+  },
+  {
    "id": 52,
    "title": {
     "id": 51,
